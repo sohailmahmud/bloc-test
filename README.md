@@ -1,1 +1,1 @@
-# flutter-solid-bloc-pattern
+# Flutter-Solid-Bloc-Pattern
