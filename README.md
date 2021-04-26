@@ -20,6 +20,7 @@ The IMDB **API Key** could be obtained from this [link](https://www.themoviedb.o
 
 *secrets.json:*
 
+
 ```
 {
   "api_key": "YOUR_API_KEY"
@@ -40,7 +41,7 @@ In order to automatically generate the *.g* files, that would contain the necess
 - [x] JSON Serialization
 - [x] Load a list retrieved from a web service
 - [x] Hide Secret API Key
-- [ ] Business models & Data models
+- [x] Business models & Data models
 - [ ] Mapper between models 
 - [x] Open detail when clicking on an item
 - [ ] Unit tests
